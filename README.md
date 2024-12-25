@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshurawat2001" alt="himanshurawat2001" /></a> </p>
 
-- 🔭 I have developed a [Spotify Clone](https://github.com/himanshurawat2001/Spotify-Clone)
+- 🔭 I have developed a [Food App](https://github.com/himanshurawat2001/FoodApp)
 
 - 🌱 I’m currently learning **Node Js and MongoDB⭐**
 
